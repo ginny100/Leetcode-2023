@@ -2,11 +2,15 @@
 
 ## __Happy New Year!__ 🎆
 
-Hello __2023__! 
+Hello __2023__! ✨
 
 This year, I'm about to participate in the [Daily LeetCoding Challenge](https://leetcode.com/) 🧗🏻‍♀️ to maintain the good habit of solving Data Structures and Algorithms problems regularly (as some sort of brain workout 🏋🏻‍♀️) Hopefully, I can keep up with this challenge. Though it's not going to be easy, but I'll work my fingers to the bone in order to go as far as I can. 🎯
 
 I will be updating this repo every day. 📝
+
+<p align="center">
+    <img src="images/AppBreweryWallpaper 8.png" width=70%>
+</p>
 
 <!-- 
 📈: In progress
@@ -200,3 +204,9 @@ I will be updating this repo every day. 📝
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
+
+<p align="center">
+    <img src="images/AppBreweryWallpaper.png" width=90%><br>
+    <i>Wallpapers from <a href="https://www.udemy.com/course/100-days-of-code/">100 Days of Code: The Complete Python Pro Bootcamp for 2023</a> by <a href="https://appbrewery.com/">The App Brewery</a>, 2023</i>
+</p>
+
