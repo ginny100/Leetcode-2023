@@ -14,29 +14,29 @@ class Solution
 public:
     bool detectCapitalUse(string word)
     {
-        auto allUpper = [](string str) -> bool
+        auto allUpper = [](int start, int end, string word) -> bool
         {
-            for (char c : str)
-                if (islower(c))
+            for (int i = start; i <= end; i++)
+                if (islower(word[i]))
                     return false;
             return true;
         };
 
-        auto allLower = [](string str) -> bool
+        auto allLower = [](int start, int end, string word) -> bool
         {
-            for (char c : str)
-                if (isupper(c))
+            for (int i = start; i <= end; i++)
+                if (isupper(word[i]))
                     return false;
             return true;
         };
 
         bool capFirst = isupper(word[0]);
         if (capFirst)
-            return (allUpper(word) || allLower(word.substr(1)));
+            return (allUpper(0, word.length() - 1, word) || allLower(1, word.length() - 1, word));
         else
-            return allLower(word.substr(1));
+            return allLower(1, word.length() - 1, word);
     }
 };
 
 // Time Complexity: O(N)
-// Space Complexity: O(N)
+// Space Complexity: O(1)
