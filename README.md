@@ -22,7 +22,7 @@ I will be updating this repo every day. 📝
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | | |
+| 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | [944. Delete Columns to Make Sorted](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day3DeleteColumnsToMakeSorted.cpp) | ✅ |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
