@@ -18,12 +18,12 @@ I will be updating this repo every day. 📝
 🏆: Accomplished 
 -->
 
-## [January](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January) 📈
+### [January](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January) 📈
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | [944. Delete Columns to Make Sorted](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day3DeleteColumnsToMakeSorted.cpp) | ✅ |
-| 4 | [2244. Minimum Rounds to Complete All Tasks](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day4MinimumRoundsToCompleteAllTasks.cpp) | ✅ | 5 | | | 6 | | |
+| 4 | [2244. Minimum Rounds to Complete All Tasks](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day4MinimumRoundsToCompleteAllTasks.cpp) | ✅ | 5 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day5MinimumNumberOfArrowsToBurstBalloons.cpp) | ✅ | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
@@ -34,7 +34,7 @@ I will be updating this repo every day. 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 
-## [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 🗓
+### [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -49,7 +49,7 @@ I will be updating this repo every day. 📝
 | 25 | | | 26 | | | 27 | | |
 | 28 | | |
 
-## [March](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March) 🗓
+### [March](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -65,7 +65,7 @@ I will be updating this repo every day. 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 
-## [April](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April) 🗓
+### [April](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -80,38 +80,7 @@ I will be updating this repo every day. 📝
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
 
-## [May](https://github.com/ginny100/Leetcode-2023/tree/master/5.%20May) 🗓
-
-| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
-|-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
-| 4 | | | 5 | | | 6 | | |
-| 7 | | | 8 | | | 9 | | |
-| 10 | | | 11 | | | 12 | | |
-| 13 | | | 14 | | | 15 | | |
-| 16 | | | 17 | | | 18 | | |
-| 19 | | | 20 | | | 21 | | |
-| 22 | | | 23 | | | 24 | | |
-| 25 | | | 26 | | | 27 | | |
-| 28 | | | 29 | | | 30 | | |
-| 31 | | |
-
-## [June](https://github.com/ginny100/Leetcode-2023/tree/master/6.%20June) 🗓
-
-| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
-|-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
-| 4 | | | 5 | | | 6 | | |
-| 7 | | | 8 | | | 9 | | |
-| 10 | | | 11 | | | 12 | | |
-| 13 | | | 14 | | | 15 | | |
-| 16 | | | 17 | | | 18 | | |
-| 19 | | | 20 | | | 21 | | |
-| 22 | | | 23 | | | 24 | | |
-| 25 | | | 26 | | | 27 | | |
-| 28 | | | 29 | | | 30 | | |
-
-## [July](https://github.com/ginny100/Leetcode-2023/tree/master/7.%20July) 🗓
+### [May](https://github.com/ginny100/Leetcode-2023/tree/master/5.%20May) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -127,7 +96,22 @@ I will be updating this repo every day. 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 
-## [August](https://github.com/ginny100/Leetcode-2023/tree/master/8.%20August) 🗓
+### [June](https://github.com/ginny100/Leetcode-2023/tree/master/6.%20June) 🗓
+
+| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
+|-----|-----------|------|-----|-----------|------|-----|-----------|------|
+| 1 | | | 2 | | | 3 | | |
+| 4 | | | 5 | | | 6 | | |
+| 7 | | | 8 | | | 9 | | |
+| 10 | | | 11 | | | 12 | | |
+| 13 | | | 14 | | | 15 | | |
+| 16 | | | 17 | | | 18 | | |
+| 19 | | | 20 | | | 21 | | |
+| 22 | | | 23 | | | 24 | | |
+| 25 | | | 26 | | | 27 | | |
+| 28 | | | 29 | | | 30 | | |
+
+### [July](https://github.com/ginny100/Leetcode-2023/tree/master/7.%20July) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -143,22 +127,7 @@ I will be updating this repo every day. 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 
-## [September](https://github.com/ginny100/Leetcode-2023/tree/master/9.%20September) 🗓
-
-| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
-|-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
-| 4 | | | 5 | | | 6 | | |
-| 7 | | | 8 | | | 9 | | |
-| 10 | | | 11 | | | 12 | | |
-| 13 | | | 14 | | | 15 | | |
-| 16 | | | 17 | | | 18 | | |
-| 19 | | | 20 | | | 21 | | |
-| 22 | | | 23 | | | 24 | | |
-| 25 | | | 26 | | | 27 | | |
-| 28 | | | 29 | | | 30 | | |
-
-## [October](https://github.com/ginny100/Leetcode-2023/tree/master/10.%20October) 🗓
+### [August](https://github.com/ginny100/Leetcode-2023/tree/master/8.%20August) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -174,7 +143,7 @@ I will be updating this repo every day. 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 
-## [November](https://github.com/ginny100/Leetcode-2023/tree/master/11.%20November) 🗓
+### [September](https://github.com/ginny100/Leetcode-2023/tree/master/9.%20September) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -189,7 +158,7 @@ I will be updating this repo every day. 📝
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
 
-## [December](https://github.com/ginny100/Leetcode-2023/tree/master/12.%20December) 🗓
+### [October](https://github.com/ginny100/Leetcode-2023/tree/master/10.%20October) 🗓
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -204,6 +173,44 @@ I will be updating this repo every day. 📝
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
+
+### [November](https://github.com/ginny100/Leetcode-2023/tree/master/11.%20November) 🗓
+
+| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
+|-----|-----------|------|-----|-----------|------|-----|-----------|------|
+| 1 | | | 2 | | | 3 | | |
+| 4 | | | 5 | | | 6 | | |
+| 7 | | | 8 | | | 9 | | |
+| 10 | | | 11 | | | 12 | | |
+| 13 | | | 14 | | | 15 | | |
+| 16 | | | 17 | | | 18 | | |
+| 19 | | | 20 | | | 21 | | |
+| 22 | | | 23 | | | 24 | | |
+| 25 | | | 26 | | | 27 | | |
+| 28 | | | 29 | | | 30 | | |
+
+### [December](https://github.com/ginny100/Leetcode-2023/tree/master/12.%20December) 🗓
+
+| Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
+|-----|-----------|------|-----|-----------|------|-----|-----------|------|
+| 1 | | | 2 | | | 3 | | |
+| 4 | | | 5 | | | 6 | | |
+| 7 | | | 8 | | | 9 | | |
+| 10 | | | 11 | | | 12 | | |
+| 13 | | | 14 | | | 15 | | |
+| 16 | | | 17 | | | 18 | | |
+| 19 | | | 20 | | | 21 | | |
+| 22 | | | 23 | | | 24 | | |
+| 25 | | | 26 | | | 27 | | |
+| 28 | | | 29 | | | 30 | | |
+| 31 | | |
+
+## Solution posts
+
+During this challenge, I've made some posts on Leetcode with detailed explanations for my solutions. Feel free to leave a comment if you see any room for improvement, I'll greatly appreciate it.
+
+- [✅ The cleanliness of my code has been improved after 1 year](https://leetcode.com/problems/detect-capital/solutions/2988725/the-cleanliness-of-my-code-has-been-improved-after-1-year/)
+- [✅ O(NlogN) time and O(1) space C++ solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/3000727/onlogn-time-and-o1-space-c-solution/)
 
 <p align="center">
     <img src="images/AppBreweryWallpaper.png" width=90%><br>
