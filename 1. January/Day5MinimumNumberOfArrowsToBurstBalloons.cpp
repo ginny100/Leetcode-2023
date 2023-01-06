@@ -1,6 +1,6 @@
 /**
  * @file Day5MinimumNumberOfArrowsToBurstBalloons.cpp
- * @author your name (you@domain.com)
+ * @author Ginny Dang
  * @brief 452. Minimum Number of Arrows to Burst Balloons (https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
  * @version 0.1
  * @date 2023-01-04
