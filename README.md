@@ -25,7 +25,7 @@ I will be updating this repo every day. 📝
 | 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | [944. Delete Columns to Make Sorted](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day3DeleteColumnsToMakeSorted.cpp) | ✅ |
 | 4 | [2244. Minimum Rounds to Complete All Tasks](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day4MinimumRoundsToCompleteAllTasks.cpp) | ✅ | 5 | [452. Minimum Number of Arrows to Burst Balloons](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day5MinimumNumberOfArrowsToBurstBalloons.cpp) | ✅ | 6 | [1833. Maximum Ice Cream Bars](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day6MaximumIceCreamBars.cpp) | ✅ |
 | 7 | [134. Gas Station](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day7GasStation.cpp) | ✅ | 8 | [149. Max Points on a Line](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day8MaxPointsOnALine.cpp) | ✅ | 9 | [144. Binary Tree Preorder Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day9BinaryTreePreorderTraversal.cpp) | ✅ |
-| 10 | | | 11 | | | 12 | | |
+| 10 | [100. Same Tree](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day10SameTree.cpp) | ✅ | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
 | 16 | | | 17 | | | 18 | | |
 | 19 | | | 20 | | | 21 | | |
