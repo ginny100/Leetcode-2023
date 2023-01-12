@@ -12,37 +12,30 @@
 class Solution
 {
 public:
-    int dfs(int start, vector<vector<int>> &graph, vector<bool> &hasApple, vector<int> &visited, int seconds)
+    int dfs(int start, vector<vector<int>> &graph, vector<bool> &hasApple, vector<bool> &visited, int seconds)
     {
-        // cout << "start = " << start << "\n";
-        visited[start] = 1;
+        visited[start] = true;
 
         for (int neighbor : graph[start])
         {
-            if (visited[neighbor] == 1)
+            if (visited[neighbor])
                 continue;
-            // cout << "  neighbor = " << neighbor << " of " << start << "\n";
-            if (visited[neighbor] == 0)
-                seconds += dfs(neighbor, graph, hasApple, visited, 0);
+
+            seconds += dfs(neighbor, graph, hasApple, visited, 0);
+
             if (hasApple[neighbor])
                 hasApple[start] = true;
-            // cout << "-> seconds of " << start << " = " << seconds << " after visiting " << neighbor << "\n";
         }
-
-        visited[start] = 2;
 
         if (start != 0 && hasApple[start])
-        {
-            // cout << "seconds + 2 at start " << start << "\n";
             seconds += 2;
-        }
 
         return seconds;
     }
 
     int minTime(int n, vector<vector<int>> &edges, vector<bool> &hasApple)
     {
-        vector<int> visited(n, 0);
+        vector<bool> visited(n, false);
         vector<vector<int>> graph(n, vector<int>());
 
         for (auto edge : edges)
