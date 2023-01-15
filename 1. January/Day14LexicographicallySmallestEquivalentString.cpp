@@ -21,13 +21,11 @@ class DisjointSet
 {
 private:
     int parent[MAX];
-    int rank[MAX];
 
 public:
     void make_set(int v)
     {
         parent[v] = v;
-        rank[v] = 0;
     }
 
     int find_set(int v)
