@@ -4,7 +4,7 @@
 
 Hello __2023__! ✨
 
-This year, I'm about to participate in the [Daily LeetCoding Challenge](https://leetcode.com/) 🧗🏻‍♀️ to maintain the good habit of solving Data Structures and Algorithms problems regularly (as some sort of brain workout 🏋🏻‍♀️) Hopefully, I can keep up with this challenge. Though it's not going to be easy, but I'll work my fingers to the bone in order to go as far as I can. 🎯
+This year, I'm about to participate in the [Daily LeetCoding Challenge](https://leetcode.com/) 🧗🏻‍♀️ to maintain the good habit of solving Data Structures and Algorithms problems regularly (as some sort of brain workout 🏋🏻‍♀️) Hopefully, I can keep up with this challenge. Though it's not going to be easy, I'll work my fingers to the bone in order to go as far as I can. 🎯
 
 I will be updating this repo every day (hopefully, lol). 📝
 
