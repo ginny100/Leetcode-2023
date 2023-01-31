@@ -18,7 +18,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 🏆: Accomplished 
 -->
 
-### [January](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January) 📈
+### [January](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January) 🏆
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -32,7 +32,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 22 | [131. Palindrome Partitioning](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day22PalindromePartitioning.cpp) | ✅ | 23 | [997. Find the Town Judge](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day23FindTheTownJudge.cpp) | ✅ | 24 | [909. Snakes and Ladders](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day24SnakesAndLadders.cpp) | ✅ |
 | 25 | [2359. Find Closest Node to Given Two Nodes](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day25FindClosestNodeToGivenTwoNodes.cpp) | ✅ | 26 | [787. Cheapest Flights Within K Stops](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day26CheapestFlightsWithinKStops.cpp) | ✅ | 27 | [472. Concatenated Words](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day27ConcatenatedWords.cpp) | ✅ |
 | 28 | [352. Data Stream as Disjoint Intervals](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day28DataStreamAsDisjointIntervals.cpp) | ✅ | 29 | [460. LFU Cache](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day29LFUCache.cpp) | ✅ | 30 | [1137. N-th Tribonacci Number](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day30NthTribonacciNumber.cpp) | ✅ |
-| 31 | | |
+| 31 | [1626. Best Team With No Conflicts](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day31BestTeamWithNoConflicts.cpp) | ✅ |
 
 ### [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 🗓
 
