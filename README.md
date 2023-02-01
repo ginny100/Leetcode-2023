@@ -34,11 +34,11 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 28 | [352. Data Stream as Disjoint Intervals](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day28DataStreamAsDisjointIntervals.cpp) | ✅ | 29 | [460. LFU Cache](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day29LFUCache.cpp) | ✅ | 30 | [1137. N-th Tribonacci Number](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day30NthTribonacciNumber.cpp) | ✅ |
 | 31 | [1626. Best Team With No Conflicts](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day31BestTeamWithNoConflicts.cpp) | ✅ |
 
-### [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 🗓
+### [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 📈
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
+| 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | | | 3 | | |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
