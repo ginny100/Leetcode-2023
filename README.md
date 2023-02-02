@@ -38,7 +38,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | | | 3 | | |
+| 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | [953. Verifying an Alien Dictionary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day2VerifyingAnAlienDictionary.cpp) | ✅ | 3 | | |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
