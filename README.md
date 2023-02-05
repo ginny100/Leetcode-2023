@@ -39,7 +39,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | [953. Verifying an Alien Dictionary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day2VerifyingAnAlienDictionary.cpp) | ✅ | 3 | [6. Zigzag Conversion](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day3ZigzagConversion.cpp) | ✅ |
-| 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | | | 6 | | |
+| 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | [438. Find All Anagrams in a String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day5FindAllAnagramsInAString.cpp) | ✅ | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
@@ -212,6 +212,7 @@ During this challenge, I've made some posts on Leetcode with detailed explanatio
 - [✅ The cleanliness of my code has been improved after 1 year](https://leetcode.com/problems/detect-capital/solutions/2988725/the-cleanliness-of-my-code-has-been-improved-after-1-year/)
 - [✅ O(NlogN) time and O(1) space C++ solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/3000727/onlogn-time-and-o1-space-c-solution/)
 - [✅ C++ solution using Recursive Depth First Search](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/solutions/3033810/c-solution-using-recursive-depth-first-search/)
+- [✅ From Brute Force to Sliding Window solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3147835/from-brute-force-to-sliding-window-solution/)
 
 <p align="center">
     <img src="images/AppBreweryWallpaper.png" width=90%><br>
