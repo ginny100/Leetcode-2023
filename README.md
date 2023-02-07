@@ -39,8 +39,8 @@ I will be updating this repo every day (hopefully, lol). 📝
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [1071. Greatest Common Divisor of Strings](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day1GreatestCommonDivisorOfStrings.cpp) | ✅ | 2 | [953. Verifying an Alien Dictionary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day2VerifyingAnAlienDictionary.cpp) | ✅ | 3 | [6. Zigzag Conversion](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day3ZigzagConversion.cpp) | ✅ |
-| 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | [438. Find All Anagrams in a String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day5FindAllAnagramsInAString.cpp) | ✅ | 6 | [Day6ShuffleTheArray.cpp](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day6ShuffleTheArray.cpp) | ✅ |
-| 7 | | | 8 | | | 9 | | |
+| 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | [438. Find All Anagrams in a String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day5FindAllAnagramsInAString.cpp) | ✅ | 6 | [1470. Shuffle the Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day6ShuffleTheArray.cpp) | ✅ |
+| 7 | [904. Fruit Into Baskets](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day7FruitIntoBaskets.cpp) | ✅ | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
 | 16 | | | 17 | | | 18 | | |
