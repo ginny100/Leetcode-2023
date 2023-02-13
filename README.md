@@ -1,4 +1,4 @@
-# Leetcode 2023 😸🐱🐈
+# __Leetcode 2023__ 😸🐱🐈
 
 ## __Happy New Year!__ 🎆
 
@@ -11,6 +11,8 @@ I will be updating this repo every day (hopefully, lol). 📝
 <p align="center">
     <img src="images/AppBreweryWallpaper 8.png" width=70%>
 </p>
+
+## __Daily updates__ 📊
 
 <!-- 
 📈: In progress
@@ -276,7 +278,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 31 | | |
 </details>
 
-## Solution posts
+## __Solution posts__ 📝
 
 During this challenge, I've made some posts on Leetcode with detailed explanations for my solutions. Feel free to leave a comment if you see any room for improvement, I'll greatly appreciate it.
 
