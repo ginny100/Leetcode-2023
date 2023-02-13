@@ -213,6 +213,7 @@ During this challenge, I've made some posts on Leetcode with detailed explanatio
 - [✅ O(NlogN) time and O(1) space C++ solution](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solutions/3000727/onlogn-time-and-o1-space-c-solution/)
 - [✅ C++ solution using Recursive Depth First Search](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/solutions/3033810/c-solution-using-recursive-depth-first-search/)
 - [✅ From Brute Force to Sliding Window solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3147835/from-brute-force-to-sliding-window-solution/)
+- [✅ O(1) Time and Space Complexity Solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/solutions/3178423/o-1-time-and-space-complexity-solution/)
 
 <p align="center">
     <img src="images/AppBreweryWallpaper.png" width=90%><br>
