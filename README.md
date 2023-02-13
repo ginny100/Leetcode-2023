@@ -42,7 +42,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 4 | [567. Permutation in String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day4PermutationInString.cpp) | ✅ | 5 | [438. Find All Anagrams in a String](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day5FindAllAnagramsInAString.cpp) | ✅ | 6 | [1470. Shuffle the Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day6ShuffleTheArray.cpp) | ✅ |
 | 7 | [904. Fruit Into Baskets](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day7FruitIntoBaskets.cpp) | ✅ | 8 | [45. Jump Game II](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day8JumpGameII.cpp) | ✅ | 9 | [2306. Naming a Company](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day9NamingACompany.cpp) | ✅ |
 | 10 | [1162. As Far from Land as Possible](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day10AsFarFromLandAsPossible.cpp) | ✅ | 11 | [1129. Shortest Path with Alternating Colors](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day11ShortestPathWithAlternatingColors.cpp) | ✅ | 12 | [Day12MinimumFuelCostToReportToTheCapital.cpp](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day12MinimumFuelCostToReportToTheCapital.cpp) | ✅ |
-| 13 | | | 14 | | | 15 | | |
+| 13 | [1523. Count Odd Numbers in an Interval Range](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day13CountOddNumbersInAnIntervalRange.cpp) | ✅ | 14 | | | 15 | | |
 | 16 | | | 17 | | | 18 | | |
 | 19 | | | 20 | | | 21 | | |
 | 22 | | | 23 | | | 24 | | |
