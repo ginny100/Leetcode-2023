@@ -21,9 +21,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- January -->
 
 <details>
-<summary>January 🏆</summary>
+<summary><b>January 🏆</b></summary>
     
-### [January](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January)
+#### [January LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/1.%20January)
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [290. Word Pattern](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day1WordPattern.cpp) | ✅ | 2 | [520. Detect Capital](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day2DetectCapital.cpp) | ✅ | 3 | [944. Delete Columns to Make Sorted](https://github.com/ginny100/Leetcode-2023/blob/master/1.%20January/Day3DeleteColumnsToMakeSorted.cpp) | ✅ |
@@ -42,9 +42,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- February -->
 
 <details>
-<summary>February 📈</summary>
+<summary><b>February 📈</b></summary>
 
-### [February](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February) 📈
+#### [February LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -63,9 +63,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- March -->
 
 <details>
-<summary>March 🗓</summary>
+<summary><b>March 🗓</b></summary>
 
-### [March](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March)
+#### [March LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -85,9 +85,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- April -->
 
 <details>
-<summary>April 🗓</summary>
+<summary><b>April 🗓</b></summary>
 
-### [April](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April)
+#### [April LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -106,9 +106,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- May -->
 
 <details>
-<summary>May 🗓</summary>
+<summary><b>May 🗓</b></summary>
 
-### [May](https://github.com/ginny100/Leetcode-2023/tree/master/5.%20May)
+#### [May LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/5.%20May)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -128,9 +128,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- June -->
 
 <details>
-<summary>June 🗓</summary>
+<summary><b>June 🗓</b></summary>
 
-### [June](https://github.com/ginny100/Leetcode-2023/tree/master/6.%20June)
+#### [June LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/6.%20June)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -149,9 +149,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- July -->
 
 <details>
-<summary>July 🗓</summary>
+<summary><b>July 🗓</b></summary>
 
-### [July](https://github.com/ginny100/Leetcode-2023/tree/master/7.%20July)
+#### [July LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/7.%20July)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -171,9 +171,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- August -->
 
 <details>
-<summary>August 🗓</summary>
+<summary><b>August 🗓</b></summary>
 
-### [August](https://github.com/ginny100/Leetcode-2023/tree/master/8.%20August)
+#### [August LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/8.%20August)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -193,9 +193,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- September -->
 
 <details>
-<summary>September 🗓</summary>
+<summary><b>September 🗓</b></summary>
 
-### [September](https://github.com/ginny100/Leetcode-2023/tree/master/9.%20September)
+#### [September LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/9.%20September)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -214,9 +214,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- October -->
 
 <details>
-<summary>October 🗓</summary>
+<summary><b>October 🗓</b></summary>
 
-### [October](https://github.com/ginny100/Leetcode-2023/tree/master/10.%20October)
+#### [October LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/10.%20October)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -236,9 +236,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- November -->
 
 <details>
-<summary>November 🗓</summary>
+<summary><b>November 🗓</b></summary>
 
-### [November](https://github.com/ginny100/Leetcode-2023/tree/master/11.%20November)
+#### [November LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/11.%20November)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
@@ -257,9 +257,9 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- December -->
 
 <details>
-<summary>December 🗓</summary>
+<summary><b>December 🗓</b></summary>
 
-### [December](https://github.com/ginny100/Leetcode-2023/tree/master/12.%20December)
+#### [December LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/12.%20December)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
