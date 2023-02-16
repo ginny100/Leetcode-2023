@@ -55,7 +55,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 7 | [904. Fruit Into Baskets](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day7FruitIntoBaskets.cpp) | ✅ | 8 | [45. Jump Game II](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day8JumpGameII.cpp) | ✅ | 9 | [2306. Naming a Company](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day9NamingACompany.cpp) | ✅ |
 | 10 | [1162. As Far from Land as Possible](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day10AsFarFromLandAsPossible.cpp) | ✅ | 11 | [1129. Shortest Path with Alternating Colors](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day11ShortestPathWithAlternatingColors.cpp) | ✅ | 12 | [Day12MinimumFuelCostToReportToTheCapital.cpp](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day12MinimumFuelCostToReportToTheCapital.cpp) | ✅ |
 | 13 | [1523. Count Odd Numbers in an Interval Range](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day13CountOddNumbersInAnIntervalRange.cpp) | ✅ | 14 | [67. Add Binary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day14AddBinary.cpp) | ✅ | 15 | [989. Add to Array-Form of Integer](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day15AddToArrayFormOfInteger.cpp) | ✅ |
-| 16 | | | 17 | | | 18 | | |
+| 16 | [104. Maximum Depth of Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day16MaximumDepthOfBinaryTree.cpp) | ✅ | 17 | | | 18 | | |
 | 19 | | | 20 | | | 21 | | |
 | 22 | | | 23 | | | 24 | | |
 | 25 | | | 26 | | | 27 | | |
