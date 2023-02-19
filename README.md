@@ -56,7 +56,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 10 | [1162. As Far from Land as Possible](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day10AsFarFromLandAsPossible.cpp) | ✅ | 11 | [1129. Shortest Path with Alternating Colors](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day11ShortestPathWithAlternatingColors.cpp) | ✅ | 12 | [2477. Minimum Fuel Cost to Report to the Capital](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day12MinimumFuelCostToReportToTheCapital.cpp) | ✅ |
 | 13 | [1523. Count Odd Numbers in an Interval Range](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day13CountOddNumbersInAnIntervalRange.cpp) | ✅ | 14 | [67. Add Binary](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day14AddBinary.cpp) | ✅ | 15 | [989. Add to Array-Form of Integer](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day15AddToArrayFormOfInteger.cpp) | ✅ |
 | 16 | [104. Maximum Depth of Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day16MaximumDepthOfBinaryTree.cpp) | ✅ | 17 | [783. Minimum Distance Between BST Nodes](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day17MinimumDistanceBetweenBSTNodes.cpp) | ✅ | 18 | [226. Invert Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day18InvertBinaryTree.cpp) | ✅ |
-| 19 | | | 20 | | | 21 | | |
+| 19 | [103. Binary Tree Zigzag Level Order Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day19BinaryTreeZigzagLevelOrderTraversal.cpp) | ✅ | 20 | | | 21 | | |
 | 22 | | | 23 | | | 24 | | |
 | 25 | | | 26 | | | 27 | | |
 | 28 | | |
