@@ -1,6 +1,6 @@
 /**
  * @file Day27ConstructQuadTree.cpp
- * @author your name (you@domain.com)
+ * @author Ginny Dang
  * @brief 427. Construct Quad Tree (https://leetcode.com/problems/construct-quad-tree/description/)
  * @version 0.1
  * @date 2023-02-27
