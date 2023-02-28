@@ -44,7 +44,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- February -->
 
 <details>
-<summary><b>February 📈</b></summary>
+<summary><b>February 🏆</b></summary>
 
 #### [February LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/2.%20February)
 
@@ -59,7 +59,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 19 | [103. Binary Tree Zigzag Level Order Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day19BinaryTreeZigzagLevelOrderTraversal.cpp) | ✅ | 20 | [35. Search Insert Position](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day20SearchInsertPosition.cpp) | ✅ | 21 | [540. Single Element in a Sorted Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day21SingleElementInASortedArray.cpp) | ✅ |
 | 22 | [1011. Capacity To Ship Packages Within D Days](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day22CapacityToShipPackagesWithinDDays.cpp) | ✅ | 23 | [502. IPO](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day23IPO.cpp) | ✅ | 24 | [1675. Minimize Deviation in Array](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day24MinimizeDeviationInArray.cpp) | ✅ |
 | 25 | [121. Best Time to Buy and Sell Stock](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day25BestTimeToBuyAndSellStock.cpp) | ✅ | 26 | [72. Edit Distance](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day26EditDistance.cpp) | ✅ | 27 | [427. Construct Quad Tree](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day27ConstructQuadTree.cpp) | ✅ |
-| 28 | | |
+| 28 | [652. Find Duplicate Subtrees](https://github.com/ginny100/Leetcode-2023/blob/master/2.%20February/Day28FindDuplicateSubtrees.cpp) | ✅ |
 </details>
 
 <!-- March -->
