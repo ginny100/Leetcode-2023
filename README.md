@@ -65,13 +65,13 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- March -->
 
 <details>
-<summary><b>March 🗓</b></summary>
+<summary><b>March 📈</b></summary>
 
 #### [March LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
+| 1 | [912. Sort an Array](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day1SortAnArray.cpp) | ✅ | 2 | | | 3 | | |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
