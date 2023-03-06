@@ -72,7 +72,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [912. Sort an Array](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day1SortAnArray.cpp) | ✅ | 2 | [443. String Compression](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day2StringCompression.cpp) | ✅ | 3 | [28. Find the Index of the First Occurrence in a String](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day3FindTheIndexOfTheFirstOccurrenceInAString.cpp) | ✅ |
-| 4 | [2444. Count Subarrays With Fixed Bounds](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day4CountSubarraysWithFixedBounds.cpp) | ✅ | 5 | [1345. Jump Game IV](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day5JumpGameIV.cpp) | ✅ | 6 | | |
+| 4 | [2444. Count Subarrays With Fixed Bounds](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day4CountSubarraysWithFixedBounds.cpp) | ✅ | 5 | [1345. Jump Game IV](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day5JumpGameIV.cpp) | ✅ | 6 | [1539. Kth Missing Positive Number](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day6KthMissingPositiveNumber.cpp) | ✅ |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
