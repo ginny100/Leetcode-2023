@@ -1,6 +1,6 @@
 /**
  * @file Day13SymmetricTree.cpp
- * @author your name (you@domain.com)
+ * @author Ginny Dang
  * @brief 101. Symmetric Tree (https://leetcode.com/problems/symmetric-tree/description/)
  * @version 0.1
  * @date 2023-03-12
