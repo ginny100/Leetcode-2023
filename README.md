@@ -77,7 +77,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 10 | [382. Linked List Random Node](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day10LinkedListRandomNode.cpp) | ✅ | 11 | [109. Convert Sorted List to Binary Search Tree](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day11ConvertSortedListToBinarySearchTree.cpp) | ✅ | 12 | [23. Merge k Sorted Lists](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day12MergeKSortedLists.cpp) | ✅ |
 | 13 | [101. Symmetric Tree](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day13SymmetricTree.cpp) | ✅ | 14 | [129. Sum Root to Leaf Numbers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day14SumRootToLeafNumbers.cpp) | ✅ | 15 | [958. Check Completeness of a Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day15.CheckCompletenessOfABinaryTree.cpp) | ✅ |
 | 16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day16ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) | ✅ | 17 | [208. Implement Trie (Prefix Tree)](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day17ImplementTriePrefixTree.cpp) | ✅ | 18 | [1472. Design Browser History](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day18DesignBrowserHistory.cpp) | ✅ |
-| 19 | [211. Design Add and Search Words Data Structure](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day19DesignAddAndSearchWordsDataStructure.cpp) | ✅ | 20 | [605. Can Place Flowers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day20CanPlaceFlowers.cpp) | ✅ | 21 | | |
+| 19 | [211. Design Add and Search Words Data Structure](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day19DesignAddAndSearchWordsDataStructure.cpp) | ✅ | 20 | [605. Can Place Flowers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day20CanPlaceFlowers.cpp) | ✅ | 21 | [2348. Number of Zero-Filled Subarrays](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day21NumberOfZeroFilledSubarrays.cpp) | ✅ |
 | 22 | | | 23 | | | 24 | | |
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
@@ -287,6 +287,7 @@ During this challenge, I've made some posts on Leetcode with detailed explanatio
 - [✅ C++ solution using Recursive Depth First Search](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/solutions/3033810/c-solution-using-recursive-depth-first-search/)
 - [✅ From Brute Force to Sliding Window solution](https://leetcode.com/problems/find-all-anagrams-in-a-string/solutions/3147835/from-brute-force-to-sliding-window-solution/)
 - [✅ O(1) Time and Space Complexity Solution](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/solutions/3178423/o-1-time-and-space-complexity-solution/)
+- [✅ C++ solution with explanation](https://leetcode.com/problems/number-of-zero-filled-subarrays/solutions/3322012/c-solution-with-explanation/)
 
 <p align="center">
     <img src="images/AppBreweryWallpaper.png" width=90%><br>
