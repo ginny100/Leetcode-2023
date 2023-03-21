@@ -1,6 +1,6 @@
 /**
  * @file Day21NumberOfZeroFilledSubarrays.cpp
- * @author your name (you@domain.com)
+ * @author Ginny Dang
  * @brief 2348. Number of Zero-Filled Subarrays (https://leetcode.com/problems/number-of-zero-filled-subarrays/description/)
  * @version 0.1
  * @date 2023-03-20
