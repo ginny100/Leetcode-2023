@@ -78,7 +78,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 13 | [101. Symmetric Tree](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day13SymmetricTree.cpp) | ✅ | 14 | [129. Sum Root to Leaf Numbers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day14SumRootToLeafNumbers.cpp) | ✅ | 15 | [958. Check Completeness of a Binary Tree](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day15.CheckCompletenessOfABinaryTree.cpp) | ✅ |
 | 16 | [106. Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day16ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) | ✅ | 17 | [208. Implement Trie (Prefix Tree)](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day17ImplementTriePrefixTree.cpp) | ✅ | 18 | [1472. Design Browser History](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day18DesignBrowserHistory.cpp) | ✅ |
 | 19 | [211. Design Add and Search Words Data Structure](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day19DesignAddAndSearchWordsDataStructure.cpp) | ✅ | 20 | [605. Can Place Flowers](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day20CanPlaceFlowers.cpp) | ✅ | 21 | [2348. Number of Zero-Filled Subarrays](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day21NumberOfZeroFilledSubarrays.cpp) | ✅ |
-| 22 | | | 23 | | | 24 | | |
+| 22 | [2492. Minimum Score of a Path Between Two Cities](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day22MinimumScoreOfAPathBetweenTwoCities.cpp) | ✅ | 23 | | | 24 | | |
 | 25 | | | 26 | | | 27 | | |
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
