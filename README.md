@@ -65,7 +65,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- March -->
 
 <details>
-<summary><b>March 📈</b></summary>
+<summary><b>March 🏆</b></summary>
 
 #### [March LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/3.%20March)
 
