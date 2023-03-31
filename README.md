@@ -81,7 +81,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 22 | [2492. Minimum Score of a Path Between Two Cities](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day22MinimumScoreOfAPathBetweenTwoCities.cpp) | ✅ | 23 | [1319. Number of Operations to Make Network Connected](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day23NumberOfOperationsToMakeNetworkConnected.cpp) | ✅ | 24 | [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day24ReorderRoutesToMakeAllPathsLeadToTheCityZero.cpp) | ✅ |
 | 25 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day25CountUnreachablePairsOfNodesInAnUndirectedGraph.cpp) | ✅ | 26 | [2360. Longest Cycle in a Graph](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day26LongestCycleInAGraph.cpp) | ✅ | 27 | [64. Minimum Path Sum](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day27MinimumPathSum.cpp) | ✅ |
 | 28 | [983. Minimum Cost For Tickets](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day26LongestCycleInAGraph.cpp) | ✅ | 29 | [1402. Reducing Dishes](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day29ReducingDishes.cpp) | ✅ | 30 | [87. Scramble String](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day30ScrambleString.cpp) | ✅ |
-| 31 | | |
+| 31 | [1444. Number of Ways of Cutting a Pizza](https://github.com/ginny100/Leetcode-2023/blob/master/3.%20March/Day31NumberOfWaysOfCuttingAPizza.cpp) | ✅ |
 </details>
 
 <!-- April -->
