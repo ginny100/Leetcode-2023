@@ -87,13 +87,13 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- April -->
 
 <details>
-<summary><b>April 🗓</b></summary>
+<summary><b>April 📈</b></summary>
 
 #### [April LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April)
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | | | 2 | | | 3 | | |
+| 1 | [704. Binary Search](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day1BinarySearch.cpp) | ✅ | 2 | | | 3 | | |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
