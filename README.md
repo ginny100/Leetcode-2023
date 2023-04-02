@@ -93,7 +93,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 
 | Day | Challenge | Done | Day | Challenge | Done | Day | Challenge | Done |
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
-| 1 | [704. Binary Search](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day1BinarySearch.cpp) | ✅ | 2 | | | 3 | | |
+| 1 | [704. Binary Search](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day1BinarySearch.cpp) | ✅ | 2 | [2300. Successful Pairs of Spells and Potions](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day2SuccessfulPairsOfSpellsAndPotions.cpp) | ✅ | 3 | | |
 | 4 | | | 5 | | | 6 | | |
 | 7 | | | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
