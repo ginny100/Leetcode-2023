@@ -95,7 +95,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 |-----|-----------|------|-----|-----------|------|-----|-----------|------|
 | 1 | [704. Binary Search](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day1BinarySearch.cpp) | ✅ | 2 | [2300. Successful Pairs of Spells and Potions](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day2SuccessfulPairsOfSpellsAndPotions.cpp) | ✅ | 3 | [881. Boats to Save People](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day3BoatsToSavePeople.cpp) | ✅ |
 | 4 | [2405. Optimal Partition of String](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day4OptimalPartitionOfString.cpp) | ✅ | 5 | [2439. Minimize Maximum of Array](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day5MinimizeMaximumOfArray.cpp) | ✅ | 6 | [1254. Number of Closed Islands](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day6NumberOfClosedIslands.cpp) | ✅ |
-| 7 | | | 8 | | | 9 | | |
+| 7 | [1020. Number of Enclaves](https://github.com/ginny100/Leetcode-2023/blob/master/4.%20April/Day7NumberOfEnclaves.cpp) | ✅ | 8 | | | 9 | | |
 | 10 | | | 11 | | | 12 | | |
 | 13 | | | 14 | | | 15 | | |
 | 16 | | | 17 | | | 18 | | |
