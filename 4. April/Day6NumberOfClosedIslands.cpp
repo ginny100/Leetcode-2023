@@ -15,9 +15,9 @@ private:
     int dr[4] = {0, 0, -1, 1};
     int dc[4] = {-1, 1, 0, 0};
 
-    int bfs(vector<vector<int>> &grid, int row, int col, int rows, int cols)
+    bool bfs(vector<vector<int>> &grid, int row, int col, int rows, int cols)
     {
-        int isClosed = 1;
+        bool isClosed = true;
         queue<pair<int, int>> q;
 
         grid[row][col] = -1;
@@ -29,7 +29,7 @@ private:
             q.pop();
 
             if ((curRow == 0) || (curRow == rows - 1) || (curCol == 0) || (curCol == cols - 1))
-                isClosed = 0;
+                isClosed = false;
 
             for (int i = 0; i < 4; i++)
             {
