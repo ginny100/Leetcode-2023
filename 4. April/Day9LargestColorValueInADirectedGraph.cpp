@@ -1,7 +1,7 @@
 /**
  * @file Day9LargestColorValueInADirectedGraph.cpp
  * @author Ginny Dang
- * @brief 1857. Largest Color Value in a Directed Graph ()
+ * @brief 1857. Largest Color Value in a Directed Graph (https://leetcode.com/problems/largest-color-value-in-a-directed-graph/description/)
  * @version 0.1
  * @date 2023-04-09
  *
