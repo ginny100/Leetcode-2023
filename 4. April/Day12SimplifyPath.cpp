@@ -1,6 +1,6 @@
 /**
  * @file Day12SimplifyPath.cpp
- * @author your name (you@domain.com)
+ * @author Ginny Dang
  * @brief 71. Simplify Path (https://leetcode.com/problems/simplify-path/description/)
  * @version 0.1
  * @date 2023-04-11
