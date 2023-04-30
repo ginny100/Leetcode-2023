@@ -87,7 +87,7 @@ I will be updating this repo every day (hopefully, lol). 📝
 <!-- April -->
 
 <details>
-<summary><b>April 📈</b></summary>
+<summary><b>April 🏆</b></summary>
 
 #### [April LeetCoding Challenge](https://github.com/ginny100/Leetcode-2023/tree/master/4.%20April)
 
@@ -277,6 +277,12 @@ I will be updating this repo every day (hopefully, lol). 📝
 | 28 | | | 29 | | | 30 | | |
 | 31 | | |
 </details>
+
+## __Time to say Goodbye!__ ✋🏻
+
+Today is the last day of April as I conclude my Daily LeetCoding Challenge. In the past four months, I’ve witnessed many ups and downs in the market, and my long-term goal has changed. I have other things to prioritize and focus on now, so I guess it’s time I take a break from LeetCode, as I can’t make enough time for it. 😕
+
+Not sure when, but I’ll come back later. 🎯
 
 ## __Solution posts__ 📝
 
